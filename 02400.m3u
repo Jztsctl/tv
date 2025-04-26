@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第01集
+https://vip.dytt-cinema.com/20250420/20722_b8b19546/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第02集
+https://vip.dytt-cinema.com/20250420/20866_98908fce/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="奔跑吧第九季",20250417发布会
+https://vip.dytt-cinema.com/20250425/21201_1aebc7e5/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="奔跑吧第九季",20250425
+https://vip.dytt-cinema.com/20250425/21220_38838371/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="奔跑吧第九季",20250426熟人局
+https://vip.dytt-cinema.com/20250426/21257_146e9847/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250412上
+https://vip.dytt-cinema.com/20250412/19759_731b104c/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250413下
+https://vip.dytt-hot.com/20250413/86668_5c9f00ad/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250414加更
+https://vip.dytt-hot.com/20250414/86783_1a84e7f5/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250419上
+https://vip.dytt-cinema.com/20250419/20616_a8feb808/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250420
+https://vip.dytt-hot.com/20250420/87213_dae5532a/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250421(第2期加更)
+https://vip.dytt-hot.com/20250421/87319_323fc524/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="哈哈哈哈哈第五季",20250426(第3期上)
+https://vip.dytt-cinema.com/20250426/21254_febd4948/index.m3u8
