@@ -1,0 +1,71 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="映前秀",IMAX
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第01集
+https://vip.dytt-cinema.com/20250420/20722_b8b19546/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第02集
+https://vip.dytt-cinema.com/20250420/20866_98908fce/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第03集
+https://vip.dytt-hot.com/20250427/87896_8ec0debd/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="奔跑吧第九季",20250417发布会
+https://vip.dytt-cinema.com/20250425/21201_1aebc7e5/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="奔跑吧第九季",20250425
+https://vip.dytt-cinema.com/20250425/21220_38838371/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="奔跑吧第九季",20250426熟人局
+https://vip.dytt-cinema.com/20250426/21257_146e9847/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第01集
+https://vip.dytt-cinema.com/20250216/3301_8217bb4e/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第02集
+https://vip.dytt-cinema.com/20250216/3302_6fab6e3a/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第03集
+https://vip.dytt-cinema.com/20250216/3303_f24ad6f7/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第04集
+https://vip.dytt-cinema.com/20250216/3304_0e9d935f/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第05集
+https://vip.dytt-cinema.com/20250216/3305_b848edae/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第06集
+https://vip.dytt-cinema.com/20250216/3306_16fc18d7/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第07集
+https://vip.dytt-cinema.com/20250216/3307_d7aab42e/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第08集
+https://vip.dytt-cinema.com/20250216/3308_c4b43ae0/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第09集
+https://vip.dytt-cinema.com/20250216/3309_2b7b82a7/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第10集
+https://vip.dytt-cinema.com/20250216/3310_69386f6b/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第11集
+https://vip.dytt-cinema.com/20250216/3311_bdd88179/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第12集
+https://vip.dytt-cinema.com/20250216/3312_334467d4/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第13集
+https://vip.dytt-cinema.com/20250216/3313_09060616/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第14集
+https://vip.dytt-cinema.com/20250216/3314_c46482dd/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第15集
+https://vip.dytt-cinema.com/20250216/3315_62dad6e2/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第16集
+https://vip.dytt-cinema.com/20250216/3316_8ce5d989/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第17集
+https://vip.dytt-cinema.com/20250216/3317_2c758933/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第18集
+https://vip.dytt-cinema.com/20250216/3318_831b1ac5/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第19集
+https://vip.dytt-cinema.com/20250223/9952_74765968/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第20集
+https://vip.dytt-cinema.com/20250302/13664_84a2f994/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第21集
+https://vip.dytt-hot.com/20250309/82826_1b077f65/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第22集
+https://vip.dytt-hot.com/20250316/84221_814a827b/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第23集
+https://vip.dytt-hot.com/20250323/85128_14cedfc2/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第24集
+https://vip.dytt-cinema.com/20250330/18472_9a497be2/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第25集
+https://vip.dytt-hot.com/20250406/85919_ba7fca88/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第26集
+https://vip.dytt-hot.com/20250413/86616_d3f954e0/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第27集
+https://vip.dytt-cinema.com/20250420/20834_398e24b4/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="牧神记",第28集
+https://vip.dytt-hot.com/20250427/87932_52836c76/index.m3u8
