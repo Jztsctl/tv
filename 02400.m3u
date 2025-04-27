@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="映前秀",IMAX
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第01集
 https://vip.dytt-cinema.com/20250420/20722_b8b19546/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="私人备播" tvg-logo="https://jztsctl.github.io/tvg/dianboa.png" group-title="比天堂还美丽",第02集
