@@ -16,7 +16,7 @@
 9,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442926/index.m3u8
 10,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279445627/index.m3u8
 
-倩女幽魂,123456,#genre#
+倩女幽魂_123456,#genre#
 2-人间道,http://hwottcdn.ln.chinamobile.com/88888892/16/20241014/280214957/index.m3u8
 3-道道道,http://hwottcdn.ln.chinamobile.com/88888892/16/20240920/280091170/index.m3u8
 
